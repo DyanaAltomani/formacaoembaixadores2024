@@ -4,7 +4,7 @@
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
 }
-
+body{
 .container {
     height: 100vh;
 }
@@ -14,7 +14,7 @@
     background-repeat: no-repeat;
     background-size: contain;
 }
-body{
+
 background-color: var(--cor-de-fundo);
 color: var(--branco-principal)
 
